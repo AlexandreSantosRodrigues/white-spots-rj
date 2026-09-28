@@ -1,8 +1,5 @@
 # 📍 Inteligência Geográfica & Expansão Territorial: Identificação de "White Spots"
 
-[![Visualizar Dashboard](https://img.shields.io/badge/Looker_Studio-Dashboard_Executivo-blue?style=for-the-badge&logo=looker)](https://datastudio.google.com/s/rZ7pUd7whek)
-[![Visualizar Mapa](https://img.shields.io/badge/GitHub_Pages-Mapa_Interativo-darkred?style=for-the-badge&logo=github)](([SEU_LINK_DO_GITHUB_PAGES_AQUI](https://datastudio.google.com/s/kd9D8B9h6Pc)))
-
 ## 🎯 O Contexto do Case
 A **ICONIC**, como líder absoluta no mercado brasileiro de lubrificantes (joint venture Ipiranga e Chevron), opera com uma capilaridade massiva. Em operações dessa magnitude, a decisão de onde abrir novas franquias, alocar distribuidores B2B ou expandir centros de serviços não pode depender de *feeling* comercial. 
 
@@ -34,7 +31,13 @@ A aplicação do modelo revelou que a expansão baseada puramente no "senso comu
 ## 🛠️ Stack Tecnológica & Engenharia de Dados
 O pipeline foi estruturado focado em eficiência, consumindo APIs gratuitas e processamento em nuvem.
 
-*   **Linguagem & Geoprocessamento:** Python (`Geopandas`, `Shapely`, `Folium`, `Scikit-learn`).
-*   **Visualização e BI:** Looker Studio (Dashboard Executivo) e GitHub Pages (Visualização HTML Interativa via Folium).
+*   **Linguagem & Geoprocessamento:** Python (`Geopandas`, `Shapely`, `Scikit-learn`).
+*   **Visualização e BI:** Looker Studio (Dashboard Executivo).
 *   **Dados Demográficos e Espaciais:** IBGE (Malha Municipal Shapefile e Censo 2022 via API Sidra).
 *   **Extração de POIs (Points of Interest):** OpenStreetMap (Overpass API) para mapeamento de polígonos comerciais.
+
+## 🔗 Acesso ao Dashboard Executivo
+Acesse o painel interativo da análise diretamente pelo link abaixo:
+https://datastudio.google.com/s/rZ7pUd7whek
+
+Case técnico desenvolvido para apresentação executiva, focado na intersecção entre Data Science, Inteligência Geográfica e Estratégia de Negócios.

@@ -1,7 +1,7 @@
 # 📍 Inteligência Geográfica & Expansão Territorial: Identificação de "White Spots"
 
 [![Visualizar Dashboard](https://img.shields.io/badge/Looker_Studio-Dashboard_Executivo-blue?style=for-the-badge&logo=looker)]((INSERIR_SEU_LINK_DO_LOOKER_STUDIO))
-[![Visualizar Mapa](https://img.shields.io/badge/GitHub_Pages-Mapa_Interativo-darkred?style=for-the-badge&logo=github)]((INSERIR_SEU_LINK_DO_GITHUB_PAGES))
+[![Visualizar Mapa](https://img.shields.io/badge/GitHub_Pages-Mapa_Interativo-darkred?style=for-the-badge&logo=github)](([INSERIR_SEU_LINK_DO_GITHUB_PAGES](https://datastudio.google.com/s/mWqudgyfNMw)))
 
 ## 🎯 O Contexto do Case
 A **ICONIC**, como líder absoluta no mercado brasileiro de lubrificantes (joint venture Ipiranga e Chevron), opera com uma capilaridade massiva. Em operações dessa magnitude, a decisão de onde abrir novas franquias, alocar distribuidores B2B ou expandir centros de serviços não pode depender de *feeling* comercial. 
